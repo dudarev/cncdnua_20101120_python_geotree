@@ -172,4 +172,4 @@ Demo 4
 
     Spacer 0,20%
 
-* ссылка на github
+* `ссылка на github <http://github.com/dudarev/cncdnua_20101120_python_geotree>`__
